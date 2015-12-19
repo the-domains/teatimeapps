@@ -1,6 +1,6 @@
 name: teatimeapps
 favicon: null
-layout_spectrum: 0.020546579733490944
+layout_spectrum: 0.94178
 typography_spectrum: 0.5624017883092165
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.6164700749795884
-  lightness: 0.6404526210390031
+  lightness: 0.875
   saturation: 0.6875
-  rhythmicContrast: 0.11197671107947826
+  rhythmicContrast: 0.25
 purpose: []
