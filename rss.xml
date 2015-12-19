@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[teatimeapps]]></title>
+        <description><![CDATA[teatimeapps]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 18:23:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Society post]]></title>
+            <description><![CDATA[<article><h1>Society post</h1><p>Teatime AppsCréation de sites web sur mesure</p></article>]]></description>
+            <link>undefinedsociety-post/index.html</link>
+            <guid isPermaLink="false">a4ca8808-3e84-4064-ad32-f1a32214d6c0</guid>
+            <pubDate>Sat, 19 Dec 2015 18:23:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
